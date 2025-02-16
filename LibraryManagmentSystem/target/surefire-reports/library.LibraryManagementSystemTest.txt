@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: library.LibraryManagementSystemTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.047 s <<< FAILURE! - in library.LibraryManagementSystemTest
+testLoginUser  Time elapsed: 0.008 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Invalid login credentials> but was: <Login successful>
+	at library.LibraryManagementSystemTest.testLoginUser(LibraryManagementSystemTest.java:30)
+
